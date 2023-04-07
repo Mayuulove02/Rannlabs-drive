@@ -1,10 +1,10 @@
 import './App.css';
-import Drive from './Components/Drive';
+import Home from './Components/Home';
 
 function App() {
   return (
     <div className="App">
-      <Drive/>
+      <Home/>
     </div>
   )
 }
